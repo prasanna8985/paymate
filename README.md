@@ -1,6 +1,4 @@
-Here's a concise **GitHub README** for your **Paymate** app:  
 
----
 
 # **Paymate – Peer-to-Peer Cash Exchange App**  
 
